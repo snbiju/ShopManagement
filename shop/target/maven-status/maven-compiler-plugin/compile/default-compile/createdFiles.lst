@@ -1,0 +1,10 @@
+retailshop\shop\rest\ShopAddressRest.class
+retailshop\shop\model\Geometry.class
+retailshop\shop\model\GoogleResponse.class
+retailshop\shop\model\ShopAddress.class
+retailshop\shop\service\IOService.class
+retailshop\shop\model\Location.class
+retailshop\shop\service\GeoService.class
+retailshop\shop\App.class
+retailshop\shop\app\Application.class
+retailshop\shop\model\Result.class
