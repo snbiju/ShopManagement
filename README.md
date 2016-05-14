@@ -3,20 +3,24 @@ Simple application for Shop Tracking
 Please follow below step 
 ------------------------
 
-Environment used
+Basic Software Required
 
-1. Eclipse
+1. Tomcat
 2. Rest client in your Mozilla firefox browser
-
-save service
-3. JDK 1.8
+3. JDK
 
 
 Build & Execute
 ---------------
 
-Run Maven clean,install
-run Application.java
+Run Maven 
+mvn clean,install
+for running  Application
+step
+1. Go to cmd prompt
+2. Change Directroy to ShopMangement/shop
+3. mvn clean,install
+4. mvn spring-boot:run
 
 URL Access
 -----------
