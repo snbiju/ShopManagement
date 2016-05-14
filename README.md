@@ -19,10 +19,10 @@ mvn clean,install
 
 Application execution steps 
 ===========================
-1. Go to cmd prompt
+1. move cmd prompt
 2. Go to  ShopMangement/shop folder
-3. run command mvn clean,install
-4. execute mvn spring-boot:run
+3. run command {mvn clean,install}
+4. execute {mvn spring-boot:run}
 
 URL Access
 -----------
