@@ -6,6 +6,7 @@ Please follow below step
 Basic Software Required
 
 1. Tomcat
+2. Maven
 2. Rest client in your Mozilla firefox browser
 3. JDK
 
@@ -15,12 +16,13 @@ Build & Execute
 
 Run Maven 
 mvn clean,install
-for running  Application
-step
+
+Application execution steps 
+===========================
 1. Go to cmd prompt
-2. Change Directroy to ShopMangement/shop
-3. mvn clean,install
-4. mvn spring-boot:run
+2. Go to  ShopMangement/shop folder
+3. run command mvn clean,install
+4. execute mvn spring-boot:run
 
 URL Access
 -----------
