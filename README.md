@@ -3,7 +3,7 @@ Simple application for Shop Tracking
 Please follow below step 
 ------------------------
 
-Basic Software Required
+ Prerequisite
 
 1. Tomcat
 2. Maven
