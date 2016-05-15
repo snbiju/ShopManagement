@@ -7,7 +7,7 @@ Please follow below step
 
 1. Tomcat
 2. Maven
-2. Rest client in your Mozilla firefox browser
+2. Rest client in your Mozilla firefox browser (or any other rest client)
 3. JDK
 
 
